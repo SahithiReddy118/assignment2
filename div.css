@@ -1,0 +1,117 @@
+body{
+    padding: 30px;
+    margin: 0;
+   font-family: sans-serif;
+}
+.outer{
+    display: block;
+    height: 80vh;
+    width: 30%;
+    border: 12px white;
+    margin: 4% 34% 0% 34%;
+    border-radius: 5px;
+}   
+.inner1{
+    height: 10%;
+    width: 100%;
+    color: black; 
+    
+}
+.inner2{  
+    width: 100%;
+    height: 35%;
+}
+.x{
+    height: 80%;
+    width: 30%;
+    background-image: url(https://humans-machines.com/assets/img/studio/800xauto-q80/humans-thorsten-2.jpg) ;
+    background-size: cover;
+    border-radius: 5%;
+}
+.y{
+    height: 80%;
+    width: 70%;
+    margin-left: 40%;
+    margin-top: -120px
+    
+}
+.inner3{ 
+    height: 60%;
+    width: 100%;
+    
+}
+
+.b1{
+    display: flex;
+    height: 15%;
+    width: 100%;
+    
+}
+.d1{
+    height:40px;
+    width: 10%;
+    color: rgb(27, 202, 144);
+    background-color: rgb(206, 202, 202);
+    border-radius: 4%;
+    
+}
+.d2{
+    height: 5%;
+    width: 75%;
+    margin-left: 20px;
+}
+
+.b2{
+    display: flex;
+    height: 15%;
+    width: 100%;
+    margin-top: 12px;
+}
+.d3{
+    height:40px;
+    width: 10%;
+    color: orange;
+    background-color: rgb(206, 202, 202);
+    border-radius: 4%;
+}
+.d4{
+    height: 5%;
+    width: 75%;
+    margin-left: 20px;
+}
+.b3{
+    display: flex;
+    height: 15%;
+    width: 100%;
+    margin-top: 12px;
+}
+.d5{
+    height:40px;
+    width: 10%;
+    color: red;
+    background-color: rgb(206, 202, 202);
+    border-radius: 4%;
+}
+.d6{
+    height: 5%;
+    width: 75%;
+    margin-left: 20px;
+}
+.b4{
+    display: flex;
+    height: 15%;
+    width: 100%;
+    margin-top: 12px;
+}
+.d7{
+    height:40px;
+    width: 10%;
+    color: royalblue;
+    background-color: rgb(206, 202, 202);
+    border-radius: 4%;
+}
+.d8{
+    height: 5%;
+    width: 75%;
+    margin-left: 20px;
+}
